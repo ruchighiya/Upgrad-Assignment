@@ -1,0 +1,5 @@
+Python V 3.7.6
+Rasa 2.0.0a2
+Tenserflow 2.3
+NumPy 1.19.0
+rasa[spacy] 2.0.0a2
